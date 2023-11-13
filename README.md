@@ -34,6 +34,11 @@ Discord: taashna9703#3687
 
 
 
+## Certificates
+
+
+
+
 ## Badges
 
 Perform Foundational Data, ML, and AI Tasks in Google Cloud: https://www.cloudskillsboost.google/public_profiles/3b306732-d175-4f66-9003-e547fa9537ff/badges/5800190
