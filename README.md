@@ -3,7 +3,7 @@
 
 
 
-# Hi, I'm Taashna J! 👋
+# Hi, I'm Taashna J ! 👋
 
 
 ## 🚀 About Me
