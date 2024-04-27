@@ -1,12 +1,11 @@
 # Profile
 
 
-
-
 # Hi, I'm Taashna J ! 👋
 
 
 ## 🚀 About Me
+|| AI and ML enthusiast || Data science enthusiast || Cracked GATE(DA) 2k23 || Experienced content writer ||
 I'm a pre-final year student pursuing engineering in AI and Data science, and I'm a Web developer enthusiast, Cloud computing enthusiast and I have considerable programming skills in various languages such as Python, C, Java, Node.js, Express.js, React.js, html, css and MATLAB. I am currently working on a project using Node and react. I'm also learning Mongodb as Non-SQL DB language and plan on using it to further develop my skills and projects. I'm deeply interested in Machine learning and deep learning. I also have hardware skills for handling Microcontrollers like Arduino. I'm further looking to improve my knowledge in ROS and swarm robotic systems. I also like the sound of being a prompt engineer and using generative AI to help reduce the amount of time wasted on tedious and pointless tasks. I would describe myself in 3 words as Enthusiastic, Ambitious and Authentic.
 
 
@@ -18,8 +17,6 @@ Java,
 Problem Solving,
 Machine learning,
 Data structures
-
-
 
 ## 
 👩‍💻 I'm currently working on deep learning algorithms
@@ -33,15 +30,20 @@ Discord: taashna9703#3687
 😄 Pronouns: She/Her
 
 
+## Projects:
+Nuclei-Instance-Segmentation-and-Classification-for-Histopathological-Analysis
+Deep learning excels in medical image analysis, especially segmenting nuclei from histopathology images. Deterministic models prioritize accuracy but lack confidence assessment. Our approach uses Deeplabv3+ for precise nuclei segmentation, addressing this limitation.
 
-## Certificates
 
-
+## Accomplishments:
+I won 2nd place in the esteemed National level Data Science Challenge 2.0 jointly organized by IEEE SPS SCET SBC, IEEE SCET SB and SIP Club with Deeplabv3+ approach
+Writing a research paper on Kidney and Kidney tumor segmentation on 3D CT scans using Deeplabv3+ approach
 
 
 ## Badges
 
-Perform Foundational Data, ML, and AI Tasks in Google Cloud: https://www.cloudskillsboost.google/public_profiles/3b306732-d175-4f66-9003-e547fa9537ff/badges/5800190
+Perform Foundational Data, ML, and AI Tasks in Google Cloud: 
+https://www.cloudskillsboost.google/public_profiles/3b306732-d175-4f66-9003-e547fa9537ff/badges/5800190
 
 Build and Secure Networks in Google Cloud:
 https://www.cloudskillsboost.google/public_profiles/3b306732-d175-4f66-9003-e547fa9537ff/badges/5799980
@@ -84,5 +86,6 @@ https://www.cloudskillsboost.google/public_profiles/3b306732-d175-4f66-9003-e547
 
 Level 3 GenAI: Prompt Engineering:
 https://www.cloudskillsboost.google/public_profiles/3b306732-d175-4f66-9003-e547fa9537ff/badges/5620369
+
 ## 🔗 Links
 LinkedIn: https://www.linkedin.com/in/taashna-jariwala-56b6a321b/
