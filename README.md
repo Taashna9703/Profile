@@ -52,8 +52,22 @@ Discord: taashna9703#3687
 • Nuclei Instance Segmentation and Classification for Histopathological Analysis using Deeplabv3+ (2023): Developed an advanced system for nuclei instance segmentation and classification using DeepLabv3+ for histopathological analysis, leveraging the PanNuke dataset. Achieved training accuracy of 0.890 and validation accuracy of 0.830 on the first 1000 images, with training and validation mIoU of 0.501 and 0.395, respectively. Implemented using TensorFlow and Python, enhancing the accuracy and efficiency of cancer diagnosis for pathologists.
 
 ## Accomplishments:
-I won 2nd place in the esteemed National level Data Science Challenge 2.0 jointly organized by IEEE SPS SCET SBC, IEEE SCET SB and SIP Club with Deeplabv3+ approach
-Wrote a research paper on Kidney and Kidney tumor segmentation on 3D CT scans using Deeplabv3+ approach which got accepted in International REGION 10 Conference by IEEE, TENSYMP.
+
+•I won 2nd place in the esteemed National level Data Science Challenge 2.0 jointly organized by IEEE SPS SCET SBC, IEEE SCET SB and SIP Club with Deeplabv3+ approach
+
+•Wrote a research paper on Kidney and Kidney tumor segmentation on 3D CT scans using Deeplabv3+ approach which got accepted in International REGION 10 Conference by IEEE, TENSYMP
+
+•Earned a Machine Learning Specialisation from Stanford University through Coursera:
+
+•Earned a Python for Data Sctructures certificate from University of Michigan through Coursera: https://coursera.org/share/4d33d5835541c2aed12b66f9b5acab09
+
+•Obtained a Programming for everybody certificate from University of Michigan through Coursera: https://coursera.org/share/d37865350d011f5fa81e8754ac14ff1c
+
+
+## Badges
+
+Open the below given google drive link to look at the certificates:
+https://drive.google.com/drive/folders/1Nz_bEQAgvkimS1XA4az_mub5yl2RjFZA?usp=drive_link
 
 
 ## Badges
